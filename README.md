@@ -12,13 +12,17 @@ or via brew:
 
     brew install phantomjs
 
-Install librsvg from here: 
+Install librsvg from instructions here: 
 
-    http://ftp.acc.umu.se/pub/GNOME/sources/librsvg/
+    http://wiki.dreamhost.com/Installing_libsrvg
 
 or on OSX via brew:
 
     brew install librsvg
+
+Librsvg is available at: 
+
+    http://ftp.acc.umu.se/pub/GNOME/sources/librsvg/
 
 Add this line to your application's Gemfile:
 
