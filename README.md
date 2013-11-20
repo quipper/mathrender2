@@ -12,21 +12,9 @@ or via brew:
 
     brew install phantomjs
 
-Install librsvg from instructions here: 
-
-    http://wiki.dreamhost.com/Installing_libsrvg
-
-or on OSX via brew:
-
-    brew install librsvg
-
-Librsvg is available at: 
-
-    http://ftp.acc.umu.se/pub/GNOME/sources/librsvg/
-
 Add this line to your application's Gemfile:
 
-    gem 'mathjaxrender'
+    gem 'mathrender2'
 
 And then execute:
 
@@ -34,7 +22,7 @@ And then execute:
 
 Or install it yourself as:
 
-    $ gem install mathjaxrender
+    $ gem install mathrender2
 
 ## Usage
 
